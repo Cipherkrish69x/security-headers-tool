@@ -1,10 +1,18 @@
-<<<<<<< HEAD
-# security-headers-tool
- A security headers tool is a software application or online service designed to analyze and evaluate the security headers implemented on a website or web application. These tools inspect HTTP response headers sent by a web server to ensure that proper security measures are in place to protect against various types of attacks and vulnerabilities.
-=======
-# Security Headers Tool
 
-The Security Headers Tool is a Python script that analyzes HTTP response headers to identify missing or misconfigured security headers. It helps web developers and security professionals ensure that websites implement essential security measures.
+Security Header Checker 
+
+This repository contains a set of Python scripts designed to check the presence and configuration of security HTTP headers in web server responses.
+
+Table of Contents
+Installation
+Scripts Overview
+1. check_headers.py
+2. check_specific_header.py
+3. check_specific_headerr.py
+4. enhanced_security_header_checker.py
+5. security_headers_checker.py
+Usage
+Author
 
 ## Scripts
 
