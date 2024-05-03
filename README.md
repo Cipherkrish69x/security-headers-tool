@@ -58,12 +58,25 @@ To use the scripts, ensure you have Python installed. Install any required depen
    ```bash
    pip install -r requirements.txt
    ```
-
+- -	pip install requests
+  -	pip install requests argparse 
 ## Scripts Overview
 
 ### 1. `check_headers.py`
 
+-- python check_headers.py --urls-file urls.txt --headers-file headers.txt --output-file output.json
 This script checks the presence of specified HTTP headers in the response headers of a single URL.
+
+Benefits of JSON Output:
+Data Persistence: JSON output allows for persistent storage and retrieval of results.
+Portability: JSON files can be easily shared and transported between different systems.
+Flexibility: JSON output can be processed and analyzed using a wide range of tools and libraries.
+
+Use the --help Option:
+Incorporate a built-in help menu (--help option) using argparse
+
+-	python check_headers.py --help
+
 
 **Usage:**
 
@@ -100,6 +113,8 @@ python3 check_specific_headerr.py
 - Reads URLs from the `urls.txt` file and prompts for the header name.
 
 ### 4. `enhanced_security_header_checker.py`
+
+-- python enhanced_security_header_checker.py https://example.com --output-file result.txt
 
 Performs enhanced security header checks on a single URL.
 
