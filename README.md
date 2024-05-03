@@ -12,7 +12,7 @@ Scripts Overview
 4. enhanced_security_header_checker.py
 5. security_headers_checker.py
 Usage
-Author
+Author - alla krishna vamsi reddy
 
 ## Scripts
 
