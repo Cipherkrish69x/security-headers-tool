@@ -142,5 +142,9 @@ python3 security_headers_checker.py
 ## Author
 
 - **Alla Krishna Vamsi Reddy** ([GitHub Profile](https://github.com/Cipherkrish69x))
+- GitHub: Cipherkrish69x
 
+
+License
+This project is licensed under the MIT License.
 ---
