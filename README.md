@@ -1,5 +1,4 @@
-
-Security Header Checker 
+Security Headers Tool
 
 This repository contains a set of Python scripts designed to check the presence and configuration of security HTTP headers in web server responses.
 
