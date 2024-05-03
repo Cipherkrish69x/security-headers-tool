@@ -1,4 +1,4 @@
-Security Headers Tool
+###Security Headers Tool
 
 This repository contains a set of Python scripts designed to check the presence and configuration of security HTTP headers in web server responses.
 
@@ -144,7 +144,10 @@ python3 security_headers_checker.py
 - **Alla Krishna Vamsi Reddy** ([GitHub Profile](https://github.com/Cipherkrish69x))
 - GitHub: Cipherkrish69x
 
+#### License
 
-License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE). 
+
 ---
+
+
