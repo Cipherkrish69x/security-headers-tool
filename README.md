@@ -44,21 +44,6 @@ To use the scripts, ensure you have Python installed. Install any required depen
 
 ### Installation
 
-1. Clone the repository to your local machine:
-   ```bash
-   git clone https://github.com/Cipherkrish69x/security-headers-tool.git
-   cd security-headers-tool
-
-Certainly! Let's create a README.md file tailored specifically to the scripts you've provided. We'll include descriptions, usage instructions, and details about each script.
-
----
-
-# Security Headers Tool
-
-This repository contains a collection of Python scripts designed to analyze and check security HTTP headers in web server responses.
-
-## Installation
-
 1. **Clone the Repository:**
 
    ```bash
